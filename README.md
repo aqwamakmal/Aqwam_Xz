@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Muhammad%20Aqwam%20Kamil!&fontSize=70" alt="Header" />
-</div>
+
 
 <h1 align="center">👋 Muhammad Aqwam Kamil!</h1>
 
