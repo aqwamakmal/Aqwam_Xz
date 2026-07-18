@@ -51,6 +51,3 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aqwamakmal&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
